@@ -1,0 +1,42 @@
+Robert Hitchcock
+Brooklyn, NY | 347-755-7698 | Robert.E.Hitchcock@gmail.com | linkedin.com/in/rhitchcock1/ | github.com/rhitchcock1
+
+JUNIOR SOFTWARE DEVELOPER
+Software Engineer/ Developer with a background in business management and development. Skilled in Python with Flask and JavaScript with React programming, specializing in team-building and problem-solving. Primary responsibilities encompass staff coaching, development, recruitment, company cultural eventing, goal acquisition, payroll, scheduling, inventory, visual marketing/schematic updates, and guest satisfaction. Committed to creating collaborative, effective code.
+
+TECHNICAL SKILLS
+Python • JavaScript • React • Flask • SQL • HTML • CSS/ Tailwind CSS • Git • GitHub • VSCode
+
+
+TECHNICAL PROJECTS
+
+AMAZON 2.0 - Github | BUTCHERED Website 
+A Fully Deployed comprehensive website that facilitates the reviewing of NYC Hair Salons, featuring a React/JavaScript frontend and Python/Flask backend(utilizing PostgreSQL for data management)
+Seamless Deployment: Utilize RENDER web hosting infrastructure and PostgreSQL for smooth deployment.
+2
+3
+
+BUTCHERED - Github | BUTCHERED Website 
+A Fully Deployed comprehensive website that facilitates the reviewing of NYC Hair Salons, featuring a React/JavaScript frontend and Python/Flask backend(utilizing PostgreSQL for data management)
+Seamless Deployment: Utilize RENDER web hosting infrastructure and PostgreSQL for smooth deployment.
+Enhanced User Experience: Deliver a fully responsive interface for optimal cross-platform compatibility and provide extensive features, including browsing salons and reviews, user contributions, and feedback.
+Robust Authentication and Administration: Implement a comprehensive authentication system for secure user access, along with administrative capabilities to manage the system effectively, ensuring data integrity.
+
+KRT Kitchen - Github | KRT Website 
+A dynamic, Full Stack restaurant website that empowers users with a range of functionalities, including menu browsing, location exploration, and the ability to leave reviews.
+Enhanced Functionality: Utilize React for the frontend implementation, incorporating efficient routing for seamless navigation and providing users with the ability to use full CRUD on reviews.
+Reliable Data Storage: Implement a robust Flask backend for secure data storage and management of user-posted data, ensuring reliable data persistence and retrieval.
+Google Maps Integration: Enhance user experience by integrating the Google Maps API, allowing seamless exploration of designated locations.
+Additionally, all imagery, including menus and launch images, are professionally designed using graphic design tools such as CANVA to align with our brand.
+
+EXPERIENCE
+Scott J AVEDA  	New York, New York
+Multi-Location General Manager 	       06/2012 - Present
+Ten-plus year professional relationship with Scott J Salons, advancing from a floor supervisor to multi-location general manager. Committed to enhancing the AVEDA brand experience while overseeing teams at multi-million dollar grossing salons. Responsibilities include leading and optimizing teams, analyzing data for insights and recommendations, collaborating on reporting metrics, and driving operational improvements.
+
+EDUCATION
+Flatiron School 	New York, New York
+Full Stack Web Development, Python with Flask and JavaScript/ React programming	01/ 2023 - 05/2023
+
+Tallahassee Community College 	Tallahassee, Florida
+Coursework towards Business Associates Degree	09/2006	
