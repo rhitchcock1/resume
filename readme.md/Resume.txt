@@ -39,4 +39,4 @@ Flatiron School 	New York, New York
 Full Stack Web Development, Python with Flask and JavaScript/ React programming	01/ 2023 - 05/2023
 
 Tallahassee Community College 	Tallahassee, Florida
-Coursework towards Business Associates Degree	09/2006	*
+Coursework towards Business Associates Degree	09/2006	***
