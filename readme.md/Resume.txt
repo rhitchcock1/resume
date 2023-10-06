@@ -8,7 +8,7 @@ TECHNICAL SKILLS
 Python • JavaScript • React • Flask • SQL • HTML • CSS/ Tailwind CSS • Git • GitHub • VSCode
 
 
-TECHNICAL PROJECTS
+TECHNICAL PROJECTS88
 
 AMAZON 2.0 - Github | BUTCHERED Website 
 A Fully Deployed comprehensive website that facilitates the reviewing of NYC Hair Salons, featuring a React/JavaScript frontend and Python/Flask backend(utilizing PostgreSQL for data management)
